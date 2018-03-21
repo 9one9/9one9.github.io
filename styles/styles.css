@@ -37,7 +37,7 @@ ul{
     display: flex;
     justify-content: center;
     width: 100%;
-    border: 1px solid red;
+   //border: 1px solid red;
     margin:0 auto;
 
 }
@@ -52,7 +52,7 @@ ul{
     max-width: 20%;
     border-style:solid;
     border-radius: 25px;
-    border-width:2px;
+    border-width:1px;
     padding:5px;
     
 }
@@ -63,7 +63,6 @@ ul{
     align-items:center; 
     margin:0 auto;
     clear:left;
-    
 }
 .footer{
     text-align: center;
@@ -71,8 +70,7 @@ ul{
     left:0;
     bottom:0;
     background-color:white;
-    position:fixed;
-    
+    position:fixed;   
 }
 
 @media screen and (min-width:0px) and (max-width:800px)  
